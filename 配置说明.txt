@@ -1,0 +1,5 @@
+域名：http://localhost/ucenter/
+sql数据库用户root 密码123456
+数据库ucenter
+ucenter超级管理员密码 admin
+uchome测试管理员用户test 密码test
